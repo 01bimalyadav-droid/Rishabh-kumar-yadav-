@@ -25,9 +25,9 @@ Building a personal voice-based AI assistant focused on daily life productivity.
 ---
 
 ### 🌐 Live Project
-🔗 Website: https:
+🔗 Website: https:https://zyxavoiceassistant--01bimalyadav.replit.app
 
 ---
 
 ### 📌 Vision
-To build AI that feels personal, trustworthy, and helYOUR-WEBSITE-LINK-HERE-LILININKNK-K-H-HEHER
+To build AI that feels personal, trustworthy, and help YOUR
