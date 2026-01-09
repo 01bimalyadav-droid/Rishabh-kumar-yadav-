@@ -30,4 +30,4 @@ Building a personal voice-based AI assistant focused on daily life productivity.
 ---
 
 ### 📌 Vision
-To build AI that feels personal, trustworthy, and help YOUR
+To build AI that feels personal, trustworthy, and helpful in everyday life.
